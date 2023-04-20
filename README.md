@@ -1,3 +1,6 @@
+## Announcement
+I will not continue this project because baileys is no longer updated. However, if you want a pull request, I will accept it. See you on the next project
+
 <p align="center">
 <img src="https://telegra.ph/file/53fe8d162708b4a876c33.jpg" alt="Dracule Mihawk" width="500"/>
 
